@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mickeydev
-- 👀 I’m interested in Networking, Java Programming and Python Programming, Web Development.
-- 🌱 I’m currently learning Penetration Testing, Intro to Java, currently I am doing my first Degree BSc. Information Technology.
-- 💞️ I’m looking to collaborate on Java Projects and currently little help with the building of personal portfolio website.
+- 👀 I’m interested in Web Development, Java Programming and Python Programming, Web Development.
+- 🌱 I’m currently working on my front-end with javascript. Will be starting React Js soon...
+- 💞️ I’m looking to collaborate on Projects and solve some problems.
 - 📫 How to reach me 
 
 <!---
